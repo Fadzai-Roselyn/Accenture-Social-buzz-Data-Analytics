@@ -20,7 +20,7 @@ There is a huge influx of data, owing to the excess of 100000 posts per day. To 
 
 How then can the business leverage the expansion and abundance of data effectively?
 
-Cue my analytics team ans myself. This is where our expertise comes in, after conducting analytics and gleaning insights, we will showcase results and demonstrate the implementation of scaling analytics for production.
+Cue my analytics team and myself. This is where our expertise comes in, after conducting analytics and gleaning insights, we will showcase results and demonstrate the implementation of scaling analytics for production.
 
 ## Process
 <li>Data understanding - A crucial element for success in data projects lies in a thorough understanding of the data. Consequently, we invested time in comprehending both the data model and the domain specific to social media business
