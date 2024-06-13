@@ -43,4 +43,4 @@ The insight derived from the analysis suggests that users on Social Buzz may fav
 
 <li>Examining temporal patterns in content popularity to identify seasonal trends. This analysis could inform content scheduling and campaign planning amongst users to maximize relevance and engagement. It can also inform the algorithm on which content to push.
 
-<li>Deeper analysis into users’ sentiments and reactions to different types of content within the categories. This could provide insights into which content resonates most strongly with the audience and guide content creation, marketing efforts and site lgorithms accordingly.
+<li>Deeper analysis into users’ sentiments and reactions to different types of content within the categories. This could provide insights into which content resonates most strongly with the audience and guide content creation, marketing efforts and site algorithms accordingly.
