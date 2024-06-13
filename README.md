@@ -10,6 +10,7 @@ In the last 5 years, Social Buzz has reached over 500 million active users each 
 1) Expertise to ensure an IPO by the end of next year and guidance to ensure that this goes smoothly.
 2) They are still a small company and do not have the resources to manage the scale that they are currently at. They could hire more people, but they want an experienced practice to help instead.
 3) Knowledge transfer in data best practices from a large corporation.
+
 Enter Accenture which can provide the following expertise;
 - An audit of their big data practice
 - Recommendations for a successful IPO
