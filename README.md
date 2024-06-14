@@ -1,4 +1,4 @@
-# Internship-Project
+# Internship Project
 Social Buzz data analytics
 ## Project/Goals
 An analysis of content categories that highlighting the top 5 categories with the largest popularity scores
